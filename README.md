@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kenedy4
-- 👀 I’m interested in first month of learning Software Engineering
+- 👀 I’m interested in learning Software Engineering, to get equiped with necessary programming skills for career change.
 - 🌱 I’m currently learning different programming languages and tricks such as using Github: python and Java
 - 💞️ I’m looking to collaborate on all class projects
 - 📫 How to reach me: Get in touch through this email: kenedy.musyoki@student.moringaschool.com
